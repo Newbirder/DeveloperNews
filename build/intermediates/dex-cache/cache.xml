@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenjh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/gson-2.3.1-ba5202ee890744328c76e14acd86831db9f1c4aa.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta1/53b5be42d6cf719ac1431b9aa9a4d5ab78856148/retrofit-2.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53b5be42d6cf719ac1431b9aa9a4d5ab78856148">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta1-d8ef9b4918211741140dfa8e33b6343c2df2ae30.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/glide-3.6.1-a277d9de568b075b97cd17ab7d64b0e678da63d1.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/okio-1.6.0-1f2ba7e5c96d322e28a82bc4957d2b4d4f030923.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-babaf6202a95c940574bca8b63a24e2a709008e4.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/classes-ddc441346d992ba80c9e96ff2a91778f52e0176d.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/classes-2f3023fb25ae94af1940619377219c5fd30f1411.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-87b25cec6dc9a6fab92a0ff0009c6d634e293bad.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/classes-eec75b6d193d512c9ce64588ef48a6b97ed1b300.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta1/3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a/converter-gson-2.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3de922cdbf9bb3a6f72f6b6b3327cfb348cf445a">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta1-3f688f488c6074b03e2a422e1fbf2ca25e73fd8d.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-938f11298d7beaf1eba4b8f9eceb32937c1a7ec4.jar" />
+    </item>
+    <item
+        jar="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/chenjh/Documents/MyGit/DeveloperNews/app/build/intermediates/pre-dexed/debug/classes-4b909eee3aa17967d6e6aa429f61be5e93d783ce.jar" />
+    </item>
+
+</items>
