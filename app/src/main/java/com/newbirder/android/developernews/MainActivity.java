@@ -50,8 +50,14 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView.setLayoutManager(layoutManager);
         mRecyclerView.setAdapter(newsAdapter);
 
-
-        fetchLatestNews();
+        refresher.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                fetchLatestNews();
+                refresher.setRefreshing(false);
+            }
+        });
+//        fetchLatestNews();
     }
 
     private void fetchLatestNews() {
