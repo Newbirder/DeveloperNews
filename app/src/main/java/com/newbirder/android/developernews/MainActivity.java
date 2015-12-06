@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
                 refresher.setRefreshing(false);
             }
         });
+//        fetchLatestNews();
     }
 
     private void fetchLatestNews() {
